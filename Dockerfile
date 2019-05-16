@@ -1,7 +1,7 @@
 FROM digitalhigh/phlex
-#MAINTAINER jcreynolds
+MAINTAINER jcreynolds
 
 # Docker Settings
 ##################
-#EXPOSE 5556
-#EXPOSE 5557
+EXPOSE 5556
+EXPOSE 5557
